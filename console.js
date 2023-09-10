@@ -6,3 +6,5 @@ console.log("Hello world") // 2nd-pr
 function main(){
   return null
 }
+
+main()
